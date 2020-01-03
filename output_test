@@ -1,0 +1,499 @@
+ditya@darkAD:~/Desktop/Aditya/projects$ python3 p2.py 
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+1
+Enter PID: 101
+Enter Name: aditya
+Enter Age: 65
+Enter UserID: dark
+enter password: adi
+Entry Added
+the details are :
+101
+aditya
+65
+[]
+
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+1
+Enter PID: 102
+Enter Name: daksh
+Enter Age: 64
+Enter UserID: dab
+enter password: adi
+Entry Added
+the details are :
+101
+aditya
+65
+[]
+
+the details are :
+102
+daksh
+64
+[]
+
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+2
+Enter PID: 201
+Enter Name: nakul
+Enter Age: 25
+Enter UserID: nkl
+enter password: adi
+Entry Added
+the details are :
+201
+nakul
+25
+[]
+
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+2
+Enter PID: 202
+Enter Name: meet
+Enter Age: 23
+Enter UserID: mit
+enter password: adi
+Entry Added
+the details are :
+201
+nakul
+25
+[]
+
+the details are :
+202
+meet
+23
+[]
+
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :2
+Enter UID: nkl
+Enter Password: adi
+...LOGIN SUCCESS...
+Welcome nakul
+Services:
+1. Request for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 1
+select for Elders:
+
+the details are :
+101
+aditya
+65
+[]
+
+the details are :
+102
+daksh
+64
+[]
+
+Enter Elder PID for request: 102
+Request made Successfully
+No Records Found
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :2
+Enter UID: mit
+Enter Password: adi
+No Records Found
+...LOGIN SUCCESS...
+Welcome meet
+Services:
+1. Request for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 1
+select for Elders:
+
+the details are :
+101
+aditya
+65
+[]
+
+the details are :
+102
+daksh
+64
+[]
+
+Enter Elder PID for request: 101
+Request made Successfully
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :1
+Enter UID: dark
+Enter Password: adi
+...LOGIN SUCCESS...
+Welcome aditya
+Services:
+1. Accept for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 1
+select for Young Takers:
+
+the details are :
+202
+meet
+23
+[]
+
+Enter Young Taker PID: 202
+No Records Found
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :1
+Enter UID: dab
+Enter Password: adi
+No Records Found
+...LOGIN SUCCESS...
+Welcome daksh
+Services:
+1. Accept for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 1
+select for Young Takers:
+
+the details are :
+201
+nakul
+25
+[]
+
+Enter Young Taker PID: 201
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+4
+select for Elders:
+
+the details are :
+101
+aditya
+65
+[]
+
+the details are :
+102
+daksh
+64
+[]
+
+Enter Elder PID for request: 101
+aditya (elder) is taken care by meet (young) 
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+5
+nakul (young) is taking care of daksh (elder) 
+meet (young) is taking care of aditya (elder) 
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :2
+Enter UID: nkl
+Enter Password: adi
+...LOGIN SUCCESS...
+Welcome nakul
+Services:
+1. Request for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 4
+The current care taker details are: 
+102
+daksh
+64
+[]
+
+The Past care taker details are: 
+
+
+102
+daksh
+64
+[]
+
+No Records Found
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :2
+Enter UID: nkl 
+Enter Password: adi
+...LOGIN SUCCESS...
+Welcome nakul
+Services:
+1. Request for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 2
+select for Elders:
+
+the details are :
+101
+aditya
+65
+[]
+
+the details are :
+102
+daksh
+64
+[]
+
+Enter Elder PID: 102
+Enter Rating out of 5: 4
+Enter your Review:
+Best nigger yea
+No Records Found
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :1
+Enter UID: dab
+Enter Password: adi
+No Records Found
+...LOGIN SUCCESS...
+Welcome daksh
+Services:
+1. Accept for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 3
+The ratings are: 
+[4]
+
+The Reviews are: 
+['Best nigger yea']
+
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :1
+Enter UID: dab
+Enter Password: adi
+No Records Found
+...LOGIN SUCCESS...
+Welcome daksh
+Services:
+1. Accept for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 2
+select for Elders:
+
+the details are :
+201
+nakul
+25
+[]
+
+the details are :
+202
+meet
+23
+[]
+
+Enter Young Taker PID: 201
+Enter Rating out of 5: 3
+Enter your Review:
+Not a good taker
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+3
+Login as 1) Elder 2) Young :2
+Enter UID: nkl
+Enter Password: adi
+...LOGIN SUCCESS...
+Welcome nakul
+Services:
+1. Request for caretaking
+2. Give rating and review
+3. View all ratings and reviews
+4. Show History: 3
+The ratings are: 
+[3]
+
+The Reviews are: 
+['Not a good taker']
+
+No Records Found
+----------------Welcome to CareAll----------------
+ Retired folks make themselves available for care &young can earn by taking care
+
+
+Services are 
+1. add Elder
+2. add young Taker
+3. Login for services
+4. Show who are taken care of older couple
+5. Showing all a young chap is currently taking care of
+6. Exit
+ Enter your choice:-
+6
+
